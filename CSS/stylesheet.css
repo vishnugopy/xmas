@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  background: linear-gradient(to right,red,white,red);
+
+}
+
+h3{
+font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+h1{
+font-family: 'Pacifico', cursive;
+}
+
+h2{
+font-family: 'Mountains of Christmas', cursive;
+}
+
+a{
+  text-decoration: none;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  color:blue;
+
+}
